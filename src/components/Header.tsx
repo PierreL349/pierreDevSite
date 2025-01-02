@@ -10,7 +10,6 @@ const Header = () => {
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-6"
-        aria-label="Link to Pierre Leconte's X account"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
