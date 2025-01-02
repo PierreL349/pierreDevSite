@@ -8,9 +8,9 @@ const Education = () => {
         <div className="mb-6">
           <h3 className="text-xl font-semibold mb-2 text-softwhite">Computer Science & Mathematics</h3>
           <p className="text-softwhite/80 leading-relaxed">
-            My academic foundation focused on mathematical theory with practical computer science applications,
-            providing me with the perfect toolkit for tackling complex technical challenges in both
-            applied contexts. At university, I also explored a variety of energy engineering courses, with a focus
+            At university, my academic foundation focused on mathematical theory with practical computer science applications,
+            providing me with a toolkit for tackling complex technical challenges in
+            applied contexts. I also explored a variety of energy engineering courses, with a focus
             on renewables and sustainable architecture.
           </p>
         </div>
