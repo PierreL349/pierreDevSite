@@ -8,14 +8,15 @@ const PersonalInterests = () => {
         <div>
           <h3 className="text-xl font-semibold mb-2 text-softwhite">Skiing</h3>
           <p className="text-softwhite/80 leading-relaxed">
-            Finding freedom and excitement on the slopes, challenging myself with new terrains
-            and conditions.
+            I have been an avid skiier for over 8 years, having explored different terrains in several countries.
+            However, my favorite skiing region forever remains Chamonix Mont-Blanc Valley.
           </p>
         </div>
         <div>
-          <h3 className="text-xl font-semibold mb-2 text-softwhite">Guitar</h3>
+          <h3 className="text-xl font-semibold mb-2 text-softwhite">Jazz Music</h3>
           <p className="text-softwhite/80 leading-relaxed">
-            Exploring musical expression through guitar, from classical pieces to modern compositions.
+            Exploring musical expression through jazz since primary school. I have performed several modern compositions
+            as a saxofonist. Some of my favorite artists include John Coltrane and Rikard From.
           </p>
         </div>
         <div>
