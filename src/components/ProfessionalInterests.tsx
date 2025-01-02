@@ -9,13 +9,13 @@ const ProfessionalInterests = () => {
           <h3 className="text-xl font-semibold mb-2 text-softwhite">Cryptography</h3>
           <p className="text-softwhite/80 leading-relaxed">
             Exploring the intersection of mathematical theory and practical security implementations
-            in modern cryptographic systems.
+            in modern cryptographic systems like blockchain technology.
           </p>
         </div>
         <div>
           <h3 className="text-xl font-semibold mb-2 text-softwhite">Large Language Models</h3>
           <p className="text-softwhite/80 leading-relaxed">
-            Investigating the capabilities and limitations of LLMs, with a focus on their practical
+            Investigating the capabilities of LLMs and similar technologies, with a focus on their practical
             applications and ethical implications.
           </p>
         </div>
