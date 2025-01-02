@@ -16,7 +16,7 @@ const PersonalInterests = () => {
           <h3 className="text-xl font-semibold mb-2 text-softwhite">Jazz Music</h3>
           <p className="text-softwhite/80 leading-relaxed">
             Exploring musical expression through jazz since primary school. I have performed several modern compositions
-            as a saxofonist. Some of my favorite artists include John Coltrane and Rikard From.
+            as a saxophonist. Some of my favorite artists include John Coltrane and Rikard From.
           </p>
         </div>
         <div>
