@@ -12,7 +12,7 @@ const Header = () => {
         className="inline-block mt-6"
       >
         <img
-          src="/xlogo.png" // Path to the image in the `public` directory
+          src="/Xlogo.png" // Path to the image in the `public` directory
           alt="X Logo"
           className="w-8 h-8 hover:opacity-80 transition-opacity"
         />
